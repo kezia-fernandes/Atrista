@@ -8,6 +8,10 @@ the user repaint it on a grid canvas, and scores how close the result is to the 
 This repository is my fork of the team's code. The application itself (Flask backend,
 web interface, brushes, user accounts) was developed by my teammates.
 
+![Recreating a reference image: extracted sketch, extracted palette and live similarity score](docs/recreate_painting.png)
+
+*The reference image (top left), its extracted sketch on the canvas, the palette extracted from it, and the similarity score.*
+
 ## My part: the image analysis
 
 I worked on the methods behind four features, and wrote the corresponding sections of
